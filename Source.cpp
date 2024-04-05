@@ -6,7 +6,7 @@ int main()
 {
 	setlocale(LC_ALL, "ru");
 	int a,b;
-	cout << "Введите два числа через пробел: ";
+	cout << "Р’РІРµРґРёС‚Рµ С‡РёСЃР»Р°";
 	cin >> a >> b;
 	a < b ? cout << b : cout << a;
 }
